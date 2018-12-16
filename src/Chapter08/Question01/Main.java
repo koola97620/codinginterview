@@ -17,6 +17,7 @@ public class Main {
         int n = 3;
         int result = downStairs(n);
         System.out.println(result);
+        System.out.println();
 
 
     }
